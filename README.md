@@ -1,3 +1,10 @@
+# TODO
+- [x] Make a working starting point
+- [ ] Learn and apply standard PHP project folder structure
+- [ ] Learn Composer and convert this to a package
+- [ ] Add tests
+- [ ] Release
+
 # süß/PHP
 
 **süß** &nbsp; _/zyːs/_ <br>
